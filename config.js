@@ -1,5 +1,5 @@
      // replace the value below with the Telegram token you receive from @BotFather
-     var token = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
+     var token = "5830036654:AAFPDip9UuBDEq5n-C4VGpWcBEO5dnFfmfs";
      // firebase config from console.firebase
      // Your web app's Firebase configuration
      var config = {
